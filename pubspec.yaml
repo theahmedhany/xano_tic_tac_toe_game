@@ -1,0 +1,60 @@
+name: xano_tic_tac_toe_game
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+  flutter_native_splash: ^2.4.1
+  flutter_launcher_icons: ^0.14.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+
+flutter_native_splash:
+  color: "#43115B"   # Color of the background of the splash screen 
+  image: assets/images/splash_screen.png  # image path
+  android_12:
+    image: assets/images/splash_screen.png  # image path
+    color: "#43115B"   # Color of the background of the splash screen 
+
+
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"  # Logo image path 
+  min_sdk_android: 21
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+
+  fonts:
+    - family: Fredoka
+      fonts:
+        - asset: assets/fonts/Fredoka-VariableFont_wdth,wght.ttf
+    - family: POUTTU
+      fonts:
+        - asset: assets/fonts/POUTTU__.TTF
