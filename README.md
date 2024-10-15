@@ -25,7 +25,7 @@ Xano is a modern take on the classic Tic Tac Toe (XO) game, developed using Flut
 https://github.com/user-attachments/assets/f743f596-700a-4df3-80ab-796259509d11
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-mobileappdevelopment-activity-7251892698926747648-VoNf?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
